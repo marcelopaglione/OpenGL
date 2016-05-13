@@ -1,0 +1,33 @@
+﻿  main.cpp
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(68): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(165): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(194): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(216): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(247): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(248): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(259): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(260): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(271): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(277): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(288): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(289): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(290): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(297): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(298): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(299): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(306): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(307): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(308): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(315): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(316): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\obj.h(317): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(137): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(142): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(143): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marcelo\documents\visual studio 2015\projects\opengl\opengl\main.cpp(145): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Marcelo\Documents\Visual Studio 2015\Projects\OpenGL\Debug\OpenGL.exe
